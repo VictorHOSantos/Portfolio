@@ -1,0 +1,41 @@
+body {
+    background-image:  url('https://images7.alphacoders.com/348/348205.jpg');
+    background-size: 200vh;
+    height: 100vh;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+  }
+  
+  a {
+    color: White;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: black; 
+  
+  transition: 0.3s;
+  
+  opacity: 0.5
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-title,
+  .site-subtitle {
+    color: white;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
