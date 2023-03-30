@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio usando HTML &amp; CSS 
+Portfolio feito com HTML &amp; CSS 
